@@ -44,9 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2023-11-29 155628](https://github.com/Kamaleshwa/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144980199/ae0cf03f-d396-4f6e-b581-8349e660f809)
 
-### Name:
-### Register Number:
+
+### Name: KAMLESHWAR KV
+### Register Number: 23013347
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
